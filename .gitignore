@@ -1,0 +1,92 @@
+#################
+## Eclipse
+#################
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+#################
+## Idea
+#################
+**/*.iml
+.idea/
+
+#################
+## Maven
+#################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!/.mvn/wrapper/maven-wrapper.jar
+
+#################
+## Logger Files
+#################
+/log4bean-impl/logs/
+/log4bean-node/log4bean-node-maintain/logs/
+/log4bean-node/log4bean-node-record/logs/
+/log4bean-node/log4bean-node-inspect/logs/
+/log4bean-node/log4bean-node-all/logs/
+
+#################
+## Configuration Files
+#################
+/log4bean-impl/conf/
+/log4bean-node/log4bean-node-maintain/conf/
+/log4bean-node/log4bean-node-record/conf/
+/log4bean-node/log4bean-node-inspect/conf/
+/log4bean-node/log4bean-node-all/conf/
+
+#################
+## Libext Files
+#################
+/log4bean-node/log4bean-node-maintain/libext/
+/log4bean-node/log4bean-node-record/libext/
+/log4bean-node/log4bean-node-inspect/libext/
+/log4bean-node/log4bean-node-all/libext/
+
+#################
+## Opt Files
+#################
+/log4bean-node/log4bean-node-maintain/opt/
+/log4bean-node/log4bean-node-record/opt/
+/log4bean-node/log4bean-node-inspect/opt/
+/log4bean-node/log4bean-node-all/opt/
+
+#################
+## Optext Files
+#################
+/log4bean-node/log4bean-node-maintain/optext/
+/log4bean-node/log4bean-node-record/optext/
+/log4bean-node/log4bean-node-inspect/optext/
+/log4bean-node/log4bean-node-all/optext/
